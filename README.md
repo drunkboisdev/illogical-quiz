@@ -1,4 +1,4 @@
-# illogical-quiz
+# the illogical quiz
 the year is 2017. i'm in grade 4 and everyone is suddenly obsessed with this ancient flash game called "the impossible quiz". i go, huh. this is pretty wild. i never actually complete the quiz, but i do get to question 94. a friend of mine completes the impossible quiz book chapter 1. after that, it's gone as quickly as it came.<br>
 <br>
 fast forward 5 years. i'm in high school now. i graduate grade 9. a few days into summer break, i come across a video titled "the possible quiz". i watch all 90 minutes of it. i realize how deeply ingrained the quiz is into me as i remember answers to question after question. i remember watching a playthrough of the impossible quiz book. i remember the story of the final chapter. i look up the final chapter's questions. i'm absolutely in awe of how raw question 148 is.<br>
