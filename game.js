@@ -1,11 +1,11 @@
-// Create the application helper and add its render target to the page
-const app = new PIXI.Application({ width: 640, height: 360, backgroundColor: 0xFFFFFF });
-document.body.appendChild(app.view);
+// i hate semicolons
+const app = new PIXI.Application({ width: 640, height: 360, backgroundColor: 0xFFFFFF })
+document.body.appendChild(app.view)
 
 //const loader = PIXI.Loader.shared
 
-const bomb = PIXI.Sprite.from("assets/bomb.png")
-app.stage.addChild(bomb)
+const loading = PIXI.Sprite.from("assets/loading.png")
+app.stage.addChild(loading)
 
 
 /* TODO:
